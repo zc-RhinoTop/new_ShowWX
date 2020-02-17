@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新零售平台",
+  "usingComponents": {
+    "special": "/compoments/special/special",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

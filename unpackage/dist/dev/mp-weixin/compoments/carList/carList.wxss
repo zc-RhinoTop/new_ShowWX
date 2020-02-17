@@ -1,0 +1,105 @@
+
+.car-list.data-v-2872e7ae {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		height: 180rpx;
+		padding: 40rpx 20rpx;
+}
+.check-btn.data-v-2872e7ae {
+	-webkit-align-self: center;
+	        align-self: center;
+}
+.goods-list-item.data-v-2872e7ae {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding-left: 20rpx;
+}
+.lisy-img.data-v-2872e7ae {
+	-webkit-align-self: center;
+	        align-self: center;
+	width: 180rpx;
+	height: 126rpx;
+}
+.lisy-img > image.data-v-2872e7ae {
+	width: 100%;
+	height: 100%;
+}
+.goods-info.data-v-2872e7ae {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: column nowrap;
+	        flex-flow: column nowrap;
+	padding-left: 20rpx;
+}
+.goods-name.data-v-2872e7ae {
+	font-size: 26rpx;
+	font-weight: 700;
+}
+.goods-unit.data-v-2872e7ae {
+	color: #949494;
+	font-size: 24rpx;
+}
+.goods-unit > text.data-v-2872e7ae {
+	background-color: #f2f2f2;
+}
+.new.data-v-2872e7ae {
+	color: red;
+	font-size: 40rpx;
+}
+.old.data-v-2872e7ae {
+	font-size: 24rpx;
+	color: #949494;
+	text-decoration: line-through;
+	padding-left: 16rpx;
+}
+.btn.data-v-2872e7ae {
+	width: 240rpx;
+	height: 52rpx;
+	-webkit-align-self: flex-end;
+	        align-self: flex-end;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.minus.data-v-2872e7ae,
+.add.data-v-2872e7ae {
+	font-size: 24rpx;
+	color: #cccccc;
+	width: 58rpx;
+	height: 52rpx;
+	text-align: center;
+	line-height: 52rpx;
+	border: 1px solid rgb(242, 242, 242);
+}
+.minus.data-v-2872e7ae {
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+.add.data-v-2872e7ae {
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.num-input.data-v-2872e7ae {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 50rpx;
+	border-top: 1px solid rgb(242, 242, 242);
+	border-bottom: 1px solid rgb(242, 242, 242);
+	text-align: center;
+}
+
