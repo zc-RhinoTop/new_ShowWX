@@ -1,0 +1,1 @@
+<view class="add-address"><view class="info"><image class="map" src="../../static/profile/u1348.png" mode></image><view>{{info}}</view></view><view data-event-opts="{{[['tap',[['addAddress',['$event']]]]]}}" class="btn" bindtap="__e">{{btn}}</view></view>

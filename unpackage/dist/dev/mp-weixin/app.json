@@ -1,51 +1,51 @@
 {
-    "pages": [
-        "pages/index/index",
-        "pages/category/category",
-        "pages/car/car",
-        "pages/profile/profile"
-    ],
-    "subPackages": [],
-    "window": {
-        "navigationBarTextStyle": "white",
-        "navigationBarBackgroundColor": "#FB8629",
-        "backgroundColor": "#F8F8F8"
-    },
-    "tabBar": {
-        "color": "#CCCCCC",
-        "selectedColor": "#FB8629",
-        "list": [
-            {
-                "pagePath": "pages/index/index",
-                "text": "首页",
-                "iconPath": "static/tabbar/index.png",
-                "selectedIconPath": "static/tabbar/index-active.png"
-            },
-            {
-                "pagePath": "pages/category/category",
-                "text": "分类",
-                "iconPath": "static/tabbar/category.png",
-                "selectedIconPath": "static/tabbar/category-active.png"
-            },
-            {
-                "pagePath": "pages/car/car",
-                "text": "购物车",
-                "iconPath": "static/tabbar/car.png",
-                "selectedIconPath": "static/tabbar/car-active.png"
-            },
-            {
-                "pagePath": "pages/profile/profile",
-                "text": "我的",
-                "iconPath": "static/tabbar/my.png",
-                "selectedIconPath": "static/tabbar/my-active.png"
-            }
-        ]
-    },
-    "permission": {
-        "scope.userLocation": {
-            "desc": "您的位置将用于获取附近商家位置"
-        }
-    },
-    "usingComponents": {},
-    "sitemapLocation": "sitemap94.json"
+  "pages": [
+    "pages/index/index",
+    "pages/category/category",
+    "pages/car/car",
+    "pages/profile/profile",
+    "pages/search/search"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#FB8629",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#CCCCCC",
+    "selectedColor": "#FB8629",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/index.png",
+        "selectedIconPath": "static/tabbar/index-active.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "static/tabbar/category.png",
+        "selectedIconPath": "static/tabbar/category-active.png"
+      },
+      {
+        "pagePath": "pages/car/car",
+        "text": "购物车",
+        "iconPath": "static/tabbar/car.png",
+        "selectedIconPath": "static/tabbar/car-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "static/tabbar/my.png",
+        "selectedIconPath": "static/tabbar/my-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置将用于获取附近商家位置"
+    }
+  },
+  "usingComponents": {}
 }

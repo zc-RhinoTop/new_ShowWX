@@ -1,0 +1,1 @@
+<view class="address"><view class="list"><text>我的自提地址</text><text data-event-opts="{{[['tap',[['selfBring',['$event']]]]]}}" class="choose" bindtap="__e">切换自提点 ></text></view><view class="list"><text>我的配送地址</text><text data-event-opts="{{[['tap',[['chooseAddress',['$event']]]]]}}" class="choose" bindtap="__e">选择地址 ></text></view></view>
